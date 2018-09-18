@@ -1,0 +1,11 @@
+
+public class Main {
+
+public static void main(string[] args){
+int number1 = 10, number2 = 6, sum, dif;
+sum = number1 + number2;
+dif = number1 + number2;
+System.out.println(sum + "");
+System.out.println(dif);
+  }
+}
